@@ -1,0 +1,2 @@
+(3,21) -> (6,17): existe caminho
+(6,17) -> (3,21): nao existe caminho
